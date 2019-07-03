@@ -15,7 +15,7 @@
     height: 51vh;
     background-color:#B3B3B3;
     border-radius: 20px;
-    color: white;
+    color: black;
   }
   
   .image1 {
@@ -26,7 +26,7 @@
   .dank {
     display:flex;
     justify-content:center;
-    color: white;
+    color: black;
     font-size: 20px;
   }
   
